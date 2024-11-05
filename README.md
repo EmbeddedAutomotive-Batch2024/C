@@ -1,2 +1,4 @@
 # C
-C language preparation codes.
+All codes of C language preparation.
+
+
